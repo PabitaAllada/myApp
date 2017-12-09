@@ -1,0 +1,12 @@
+{
+  "name": "hellonode",
+  "version": "0.0.1",
+  "description": "My first node app",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabitaAllada/myNodeApp"
+  },
+  "author": "pabitaallada@gmail.com",
+  "license": "MIT"
+}
