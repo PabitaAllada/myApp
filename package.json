@@ -2,11 +2,13 @@
   "name": "hellonode",
   "version": "0.0.1",
   "description": "My first node app",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/PabitaAllada/myApp"
   },
   "author": "pabitaallada@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
 }
